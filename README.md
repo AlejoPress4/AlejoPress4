@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre mí
 
-🎓 **Estudiante de Ingeniería en Sistemas y Computación**  
+🎓 **Universidad de Caldas**  
 📍 **Ubicación:** Manizales, Caldas, Colombia  
 💻 **Apasionado por:** El desarrollo web, la arquitectura de software y las tecnologías emergentes  
 🌱 **Actualmente aprendiendo:** Nuevas tecnologías y mejores prácticas de desarrollo  
